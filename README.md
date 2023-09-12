@@ -33,4 +33,4 @@
   <h2> ⭐️ Github Stats ⭐️ </h2>
 </div>
 
-![이호찬님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Hc-5514&show_icons=true&theme=solarized-light&hide=issues&bg_color=30,2cd8d5,c5c1ff,ffbac3&title_color=fff&text_color=fff)
+![이호찬님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Hc-5514&show_icons=true&theme=solarized-light&bg_color=30,2cd8d5,c5c1ff,ffbac3&title_color=fff&text_color=fff)
