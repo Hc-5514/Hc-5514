@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:5DDBFF,100:4D9DFF&text=Hochan&fontColor=F7F5F5&fontAlignY=35&height=200)
 
-<h3>🛠 Tech Stack 🛠</h3>
-
----
+<div align=left>
+  <h2> 🛠 Tech Stack 🛠 </h2>
+</div>
 
 <div>
   <strong>Backend</strong><br>
@@ -20,13 +20,11 @@
 <div>
   <strong>Collaboration</strong><br>
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt ="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img alt ="GitLab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt ="jira" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img alt ="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img alt ="notion" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt ="swagger" src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt ="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt ="figma" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt ="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
 <div align=left>
@@ -34,8 +32,6 @@
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbd05050)](https://solved.ac/tbd05050/)
-
-<br>
 
 <div align=left>
   <h2> ⭐️ Github Stats ⭐️ </h2>
